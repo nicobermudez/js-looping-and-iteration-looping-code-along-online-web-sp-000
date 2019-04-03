@@ -8,6 +8,6 @@ function printBadges(array) {
 
 function tailsNeverFails() {
   while(Math.random > 0.5) {
-
+    const Tails ++
   }
 }
